@@ -1,0 +1,16 @@
+.navbar {
+  background: #333;
+  color: #fff;
+  list-style: none;
+  display: flex;
+}
+
+.navbar li {
+  font-size: 22px;
+  margin-right: 50px;
+}
+
+.navbar li a {
+  color: #fff;
+  text-decoration: none;
+}
